@@ -1,3 +1,17 @@
+@media screen and (max-width:690px) 
+{
+    main{
+    font-size: 12px;
+    }
+}
+
+@media screen and (max-width:526px) 
+{
+    main{
+    font-size: 8px;
+    }
+}
+
 .banner__container--size{
     height: 60vh;
 }
@@ -17,4 +31,10 @@ nav div .navbar-nav b {
     footer a {
         color: aliceblue !important;
     }
+}
+
+.textoEnImagen {
+    color: white;
+    font-weight: 500;
+
 }
